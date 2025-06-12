@@ -1,0 +1,16 @@
+{
+  "monitor_config": {
+    "group_1": [
+      {
+        "node_id": "1",
+        "type": "local"
+      }
+    ],
+    "group_2": [
+      {
+        "node_id": "1",
+        "type": "local"
+      }
+    ]
+  }
+}
